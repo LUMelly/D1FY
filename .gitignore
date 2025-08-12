@@ -10,3 +10,4 @@ backend/.env
 backend/.env
 .env
 __pycache__/
+replacements.txt
